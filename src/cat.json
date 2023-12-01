@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Whiskers",
+    "age": 2,
+    "breed": "Siamese"
+  },
+  {
+    "id": 2,
+    "name": "Fluffy",
+    "age": 3,
+    "breed": "Persian"
+  },
+  {
+    "id": 3,
+    "name": "Mittens",
+    "age": 1,
+    "breed": "Tabby"
+  },
+  {
+    "id": 4,
+    "name": "Oreo",
+    "age": 2,
+    "breed": "Tuxedo"
+  },
+  {
+    "id": 5,
+    "name": "Cleo",
+    "age": 4,
+    "breed": "Bengal"
+  },
+  {
+    "id": 6,
+    "name": "Smokey",
+    "age": 3,
+    "breed": "Russian Blue"
+  },
+  {
+    "id": 7,
+    "name": "Leo",
+    "age": 1,
+    "breed": "Sphynx"
+  },
+  {
+    "id": 8,
+    "name": "Max",
+    "age": 2,
+    "breed": "Ragdoll"
+  },
+  {
+    "id": 9,
+    "name": "Luna",
+    "age": 1,
+    "breed": "Scottish Fold"
+  },
+  {
+    "id": 10,
+    "name": "Tiger",
+    "age": 3,
+    "breed": "Siberian"
+  },
+  {
+    "id": 11,
+    "name": "Simba",
+    "age": 2,
+    "breed": "Abyssinian"
+  },
+  {
+    "id": 12,
+    "name": "Milo",
+    "age": 1,
+    "breed": "Manx"
+  },
+  {
+    "id": 13,
+    "name": "Nala",
+    "age": 4,
+    "breed": "Himalayan"
+  },
+  {
+    "id": 14,
+    "name": "Charlie",
+    "age": 2,
+    "breed": "Norwegian Forest"
+  },
+  {
+    "id": 15,
+    "name": "Ziggy",
+    "age": 3,
+    "breed": "Cornish Rex"
+  },
+  {
+    "id": 16,
+    "name": "Oliver",
+    "age": 1,
+    "breed": "Devon Rex"
+  },
+  {
+    "id": 17,
+    "name": "Cupcake",
+    "age": 2,
+    "breed": "Calico"
+  },
+  {
+    "id": 18,
+    "name": "Salem",
+    "age": 1,
+    "breed": "Black Shorthair"
+  },
+  {
+    "id": 19,
+    "name": "Bella",
+    "age": 3,
+    "breed": "Angora"
+  },
+  {
+    "id": 20,
+    "name": "Mocha",
+    "age": 2,
+    "breed": "Chocolate Point"
+  }
+]
